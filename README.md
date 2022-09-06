@@ -13,8 +13,8 @@
 <p align="center">
 <a href="https://github.com/DenaraBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/DenaraBot?color=red&style=flat-square"></a>
 <a href="https://github.com/DenaraBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DenaraBot?color=blue&style=flat-square"></a>
-<a href="https://github.com/DenaraBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DenaraBot?color=red&style=flat-square"></a>
-<a href="https://github.com/DenaraBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DenaraBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DenaraBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DenaraBot/ochobot-V2?color=red&style=flat-square"></a>
+<a href="https://github.com/DenaraBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DenaraBot/ochobot-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/DenaraBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/DenaraBot"><img title="Size" src="https://img.shields.io/github/repo-size/DenaraBot/ochobot-V2?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2F&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
