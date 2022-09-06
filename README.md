@@ -21,15 +21,6 @@
 <a href="https://github.com/DenaraBot/ochobot-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenaraBot/ochobot-V2#requirements">Requirements</a> •
-  <a href="https://github.com/DenaraBot/ochobot-V2#instalasi">Installation</a> •
-  <a href="https://github.com/DenaraBot/ochobot-V2#thanks-to">Thanks to</a> •
-  <a href="https://github.com/DenaraBot/ochobot-V2#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/DenaraBot/ochobot-V2#donate">Donate</a>
-</p>
-</div>
-
 
 ---
 
