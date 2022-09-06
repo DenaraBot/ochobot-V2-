@@ -70,7 +70,7 @@ bash install.sh
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/YNrRfF8Rxpg"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtu.be/YNrRfF8Rxpg"><img src="https://h.top4top.io/p_2439nibsh0.jpg" />
 </p>
 
 ## Donate
