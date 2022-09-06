@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/DenaraBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/DenaraBot?color=red&style=flat-square"></a>
-<a href="https://github.com/DenaraBot/ochobot-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DenaraBot/ochobot-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/DenaraBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DenaraBot?color=blue&style=flat-square"></a>
 <a href="https://github.com/DenaraBot/ochobot-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DenaraBot/ochobot-V2?color=red&style=flat-square"></a>
 <a href="https://github.com/DenaraBot/ochobot-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DenaraBot/ochobot-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/DenaraBot/ochobot-V2"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
