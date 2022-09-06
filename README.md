@@ -80,7 +80,7 @@ bash install.sh
 - [Group 1](https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA)
 
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
 Owner Hisoka-Morou | Constributor |
