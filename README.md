@@ -82,8 +82,8 @@ bash install.sh
 # Thanks to
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
+[Mhankbarbar](https://github.com/MhankBarBar)  | [Nurutomo](https://github.com/Nurutomo)
+Owner ochobot-V2 | Constributor |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![DENARA](http://github.com/DenaraBot.png?size=100)](http://github.com/DenaraBot) 
 [Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
 Owner of Baileys | Owner of Api Denarabot |
