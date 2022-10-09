@@ -1,5 +1,5 @@
 {
-    "ownerNumber": "6281215626270@s.whatsapp.net", 
+    "ownerNumber": "62895609911700@s.whatsapp.net", 
     "ownerName": "Denara Bot", 
     "botName": "Ocho-Bot",
     "footer": "© OCHOBOT | 2022", 
@@ -7,9 +7,9 @@
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     
-    "limitCount": 100,
-    "limitGame": 35,
-    "gamewaktu": 90,
+    "limitCount": 999,
+    "limitGame": 9999,
+    "gamewaktu": 9999,
     "sticker": {
         "packname": "© Store",
         "author": "Denara Bot"
